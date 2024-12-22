@@ -196,7 +196,7 @@ class _LoginPageState extends State<LoginPage> {
                                               .inversePrimary),
                                       children: [
                                         TextSpan(
-                                          text: 'Create One',
+                                          text: "Create One",
                                           style: GoogleFonts.lato(
                                             fontSize: 14,
                                             fontWeight: FontWeight.w600,
